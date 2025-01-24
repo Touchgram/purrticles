@@ -1,7 +1,7 @@
 # Purrticles public samples and issues
 This repo is the public storage of all samples and issues for the Purrticles app.
 
-The repo was created to accompany Purrticles v1.0 because it has a developer focus and we want to make samples available as well as give you an [issue tracker][p2] for adding requests. 
+The repo was created to accompany Purrticles v1.0 because it has a developer focus and we want to make samples available as well as give you an [issue tracker][p2] for adding requests, or **voting on the priority** of our [suggested enhancements][p4]. 
 
 ## About Purrticles
 [Purrticles][p1] is usable as a standalone design and developer tool that can create code and other assets to do with particles. It is easier to use than the XCode particle design interface because it understands field defaults and lets you see just the _Applied_ parameters.
@@ -10,7 +10,7 @@ V1.0 is limited to SpriteKit code.
 
 Purrticles acts as a companion to Touchgram - you can directly copy particle definitions from Purrticles and use them in Touchgram v1.3.6 onwards.
 
-Future versions will provide more options for exploratory design and other game and UI engines.
+Future versions will provide [more options][p4] for exploratory design and other game and UI engines.
 
 ### Mac version
 A Mac version of Purrticles was developed in parallel with the iPhone and iPad versions. It is not being released as v1.0 mostly because of additional time needed to tweak the interface and paywall features.
@@ -50,6 +50,7 @@ Our core terms are fairness, just behave decently and don't rip-off other creato
 [p1]:  https://www.touchgram.com/purrticles
 [p2]: https://github.com/Touchgram/purrticles/issues
 [p3]: https://www.reddit.com/r/purrticles/
+[p4]: https://github.com/Touchgram/purrticles/issues?q=is%3Aissue%20state%3Aopen%20label%3Aenhancement
 [gh1]: https://github.com/AndyDentFree/swiftgooey
 [gh2]: https://github.com/AndyDentFree/SpriteKittenly
 [gh3]: https://github.com/AndyDentFree/SpriteKittenly/tree/master/ResizingRemit
