@@ -16,29 +16,29 @@ As of Purrticles 1.0.2 there are three other textures bundled in the Purrticles 
 In future, you will be able to add your own textures - see [issue 15][gh15].
 
 ## Image previews 
-Shown on dark background as most are mainly white files.
+Github preview won't color backgrounds so best to look at this in a [dark theme][ght].
 
 <table> 
   <tr><th colspan="2">Apple property</th></tr>
   <tr>
     <td style="background-color:black; text-align:center;">
-      <img src="spark.png" width="80">
+      <img src="spark.png" width="64">
     </td>
     <td style="background-color:black; text-align:center;">
-      <img src="bokeh.png" width="80">
+      <img src="bokeh.png" width="64">
     </td>
   </tr>
   <tr><th>&nbsp;</th></tr>
   <tr><th colspan="3">Freely licensed additional textures</th></tr>
   <tr>
     <td style="background-color:black; text-align:center;">
-      <img src="heart.png" width="80">
+      <img src="heart.png" width="64">
     </td>
     <td style="background-color:black; text-align:center;">
-      <img src="droplet.png" width="80">
+      <img src="droplet.png" width="64">
     </td>
     <td style="background-color:black; text-align:center;">
-      <img src="covid.png" width="80">
+      <img src="covid.png" width="64">
     </td>
   </tr>
 </table>
@@ -50,3 +50,4 @@ Shown on dark background as most are mainly white files.
 [x2]: https://developer.apple.com/documentation/xcode/creating-a-spritekit-particle-emitter-in-xcode
 
 [gh15]: https://github.com/Touchgram/purrticles/issues/15
+[ght]: https://docs.github.com/en/get-started/accessibility/managing-your-theme-settings
