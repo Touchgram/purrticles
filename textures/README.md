@@ -21,29 +21,33 @@ Github preview won't color backgrounds so best to look at this in a [dark theme]
 <table> 
   <tr><th colspan="2">Apple property</th></tr>
   <tr>
-    <td style="background-color:black; text-align:center;">
+    <td>
       <img src="spark.png" width="64">
     </td>
-    <td style="background-color:black; text-align:center;">
+    <td>
       <img src="bokeh.png" width="64">
     </td>
   </tr>
   <tr><th>&nbsp;</th></tr>
   <tr><th colspan="3">Freely licensed additional textures</th></tr>
   <tr>
-    <td style="background-color:black; text-align:center;">
+    <td>
       <img src="heart.png" width="64">
     </td>
-    <td style="background-color:black; text-align:center;">
+    <td>
       <img src="droplet.png" width="64">
     </td>
-    <td style="background-color:black; text-align:center;">
+    <td>
       <img src="covid.png" width="64">
     </td>
   </tr>
 </table>
 
 
+### Dark mode preview
+Screenshot taken in dark mode so you can see the above table with good contrast against the images
+
+![<# Single screenshot of table, cannot select images #>](DarkPreview.png "Screenshot")
 
 [p1]: https://apps.apple.com/au/app/swift-playground/id908519492
 [x1]:https://developer.apple.com/xcode/
