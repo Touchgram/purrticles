@@ -21,6 +21,10 @@ Adding your own images is [not yet possible][p6]. A near-future version of Purrt
 
 See the list of bundled [textures](./textures/README.md) from which you can copy the files.
 
+### Sample Playgrounds
+The [samples](./samples/README.md) directory contains zipped [Swift Playgrounds][a1] and other code, demonstrating use of code exported from Purrticles.
+
+
 ### Mac version
 A Mac version of Purrticles was developed in parallel with the iPhone and iPad versions. It is coming soon in August 2025, as our entrant in the [Shipaton 2025][sh1] competition from [Revenue Cat][rc1].
 
@@ -65,6 +69,7 @@ Our core terms are fairness, just behave decently and don't rip-off other creato
 - [Privacy][tg2]
 - [Terms for Use][tg3]
 
+[a1]: https://www.apple.com/au/swift/playgrounds/
 
 [tg1]: https://www.touchgram.com
 [tg2]: https://www.touchgram.com/privacy
